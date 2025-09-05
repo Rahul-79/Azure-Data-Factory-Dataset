@@ -1,0 +1,9 @@
+{
+	"name": "rahuldatafactory108",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fadd2a1b-1743-43ef-a7e8-8794fbda512b",
+		"tenantId": "d71b3cdd-91ec-4199-84ae-1badcb17a905"
+	}
+}
